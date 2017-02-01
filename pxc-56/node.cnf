@@ -24,3 +24,5 @@ wsrep_provider=/usr/lib64/galera3/libgalera_smm.so
 
 wsrep_sst_method=xtrabackup-v2
 wsrep_sst_auth="root:"
+
+pxc_strict_mode=PERMISSIVE
